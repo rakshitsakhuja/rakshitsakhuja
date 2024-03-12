@@ -55,7 +55,7 @@ I'm a Data Scientist, specializing in Recommendation System, Search, and NLP . I
 Feel free to reach out if you're looking for a collaborator, have a question, or just want to connect.
 
 - 📧 Email: rakshitsakhuja@gmail.com
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/rakshitsakhuja/">rakshitsakhuja</a> •
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/rakshitsakhuja/">rakshitsakhuja</a>
 
 
 ---
