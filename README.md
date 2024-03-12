@@ -10,7 +10,7 @@
 
 ### 🤵 About Me:
 
-I'm a Data Scientist, specializing in Recommendation System, Search, and NLP . I'm passionate about what LLM's can do as of now and love to work on projects that are in domain f my interest and expertise. Currently, I'm learning LlamaIndex, GenAI and more into Recsys
+I'm a Data Scientist, specializing in Recommendation System, Search, and NLP . I'm passionate about what LLM's can do as of now and love to work on projects that are related to same. Currently, I'm learning LlamaIndex, Generative AI capablities and more into Recsys
 <!-- [describe types of projects]-->
 - 🔭 I’m currently working on **Sequential Recommender Systems**
 <!-- - 🌱 I’m currently learning **[Something New You're Learning]** 
