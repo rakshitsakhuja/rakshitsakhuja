@@ -20,7 +20,7 @@ Currently at **Mediacorp**, I build and ship ranking & recsys systems for produc
 
 Previously, I worked on **neural & semantic search** and recommendation systems (Elasticsearch, SBERT, FAISS), and earlier in my career I built data pipelines in ETL roles.
 
-- 🔭 Current focus: **Sequential / session-based recommendation** + **ranking**
+- 🔭 Current focus: **LLM / recommendation models** + **ranking**
 - 🌱 Learning: **Agentic AI**, **RAG pipelines**, **agentic workflows**, and **LLM evaluation**
 - 💬 Ask me about: **LTR, embeddings, retrieval + re-ranking, recommender systems, semantic search**
 - 🤝 Open to collaborating on: **Recsys / Search / RAG / LLM Evaluations**
