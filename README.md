@@ -50,8 +50,8 @@ Previously, I worked on **neural & semantic search** and recommendation systems 
 
 <p align="center">
   <a href="https://github.com/rakshitsakhuja">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakshitsakhuja&show_icons=true&theme=radical" alt="Rakshit GitHub stats" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitsakhuja&layout=compact&theme=radical" alt="Top languages" height="165"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rakshitsakhuja&show_icons=true&theme=radical" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitsakhuja&layout=compact&theme=radical" />
   </a>
 </p>
 
