@@ -32,8 +32,8 @@ Previously, I worked on **neural & semantic search** and recommendation systems 
 - **Languages:** Python, SQL  
 - **ML/DL:** PyTorch, scikit-learn  
 - **Recsys / Ranking:** sequential models, candidate generation, re-ranking, evaluation  
-- **NLP / LLM:** embeddings, RAG, prompt engineering, tooling (LlamaIndex)  
-- **Data:** Pandas, Spark (if applicable), ETL pipelines
+- **NLP / LLM:** embeddings, RAG, prompt engineering, tooling 
+- **Data:** Pandas, PySpark, ETL pipelines
 
 ---
 
